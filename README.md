@@ -13,7 +13,8 @@
 
 
 #카드덱 구상
-숫자: 2~10, A, J, Q, K(1, 11, 12, 13으로 final 변수 지정) / 모양: "spades", "hearts", "diamonds", "clubs"
+- 숫자: 2~10, A, J, Q, K(1, 11, 12, 13으로 final 변수 지정)
+- 모양: "spades", "hearts", "diamonds", "clubs"
 
 #메소드 구현
 - Removecard, Addcard: Player와 Dealer가 서로의 카드를 뽑았을 때, 각자의 패에서 카드를 제거하거나 추가해주는 메소드로 배열과 for문을 사용하여 구현하였다.
